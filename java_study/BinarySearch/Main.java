@@ -12,7 +12,7 @@ public class Main {
 		
 		Search s = new Search(intArray);
 		System.out.println(s.search(5));
-		
+		//geuntaek fork test		
 	}
-
+//why did not pull?
 }
